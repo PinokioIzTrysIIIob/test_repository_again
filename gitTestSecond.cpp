@@ -3,6 +3,7 @@
 int main()
 {
     int a;
+    std::cout << "Enter a value: ";
     std::cin >> a;
     if(a == 3)  
     {
